@@ -1,7 +1,7 @@
 ---
 
 - step:
-    name: Test model
+    name: Test-model
     image: tensorflow/tensorflow:1.5.0-devel-gpu
     command:
       - cd models/tutorials/image/imagenet
